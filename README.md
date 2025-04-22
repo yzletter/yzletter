@@ -1,8 +1,25 @@
+
+
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=Welcome+to+my+Github!;Feel+free+to+contact+me!💬)
+
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+</div>
+<div>&nbsp;</div>
+
 - 🌱 I’m currently learning Golang
 - 💬 Communicate with me about Golang-related technologies
 - 📫 How to reach me: yzletter@foxmail.com
+  
+
+
+  
 <!--
 **yzletter/yzletter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -65,5 +82,3 @@ Reject [996](https://996.icu/#/en_US), WLB only.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sylar-i?theme=radical&site=cn&font=Content&ext=contest&width=800&height=400)
 -->
 &nbsp;
-
-
