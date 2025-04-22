@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=Welcome+to+my+Github!;Feel+free+to+contact+me!💬)
 - 🌱 I’m currently learning Golang
 - 💬 Communicate with me about Golang-related technologies
 - 📫 How to reach me: yzletter@foxmail.com
@@ -14,10 +15,54 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Reject [996](https://996.icu/#/en_US), WLB only.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=donut)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=donut&card_width=320" />
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=donut&card_width=320)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sylar-i?theme=radical&font=Abel&ext=contest&site=cn)
+![](https://stats.justsong.cn/api/leetcode?username=yawn_sean&cn=true&theme=dark)
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=232 align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=232 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=320" />
+</a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yzletter&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+&nbsp;
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,cpp,md,docker,git,linux,nginx,mysql,redis,kafka,githubactions,postman,kubernetes" />
+  </a>
+</p>
+&nbsp;
+
+## Social Statistic⚡
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=232 align="center" src="https://leetcard.jacoblin.cool/sylar-i?theme=radical&site=cn&font=Content" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=232 align="center" src="https://stats.justsong.cn/api/csdn?id=m0_52806260&theme=dark" />
+</a>
+
+
+&nbsp;
+
+## Contribution👋
+Reject [996](https://996.icu/#/en_US), WLB only.
+
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yzletter&theme=redical)
 
