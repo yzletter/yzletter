@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sylar-i?theme=radical&font=Abel&ext=contest&site=cn)
 ![](https://stats.justsong.cn/api/leetcode?username=yawn_sean&cn=true&theme=dark)
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=260" />
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=250" />
 </a>
 
 &nbsp;
@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 
 ## Social Statistic⚡
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/sylar-i?theme=radical&site=cn&font=Content" />
+<a>
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/sylar-i?theme=radical&site=cn&font=Content&width=800&height=200" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://stats.justsong.cn/api/csdn?id=m0_52806260&theme=dark" />
 </a>
