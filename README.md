@@ -46,23 +46,24 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,md,docker,git,github,linux,nginx,mysql,redis,kafka,githubactions,postman,kubernetes,lua,cpp" />
+    <img src="https://skillicons.dev/icons?i=go,git,github,nginx,linux,mysql,redis,kafka,postman,kubernetes,md,docker,githubactions,lua,cpp" />
   </a>
 </p>
 &nbsp;
 
-## Social Statistic⚡
 
+## Contribution🔭
+Reject [996](https://996.icu/#/en_US), WLB only.
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yzletter&theme=redical)
+
+&nbsp;
+
+## Other Statistic⚡
 <a>
   <img height=200 align="center" src="https://leetcard.jacoblin.cool/sylar-i?theme=radical&site=cn&font=Content&width=600&height=200" />
 </a>
 
 &nbsp;
 
-## Contribution👋
-Reject [996](https://996.icu/#/en_US), WLB only.
-
-
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yzletter&theme=redical)
 
