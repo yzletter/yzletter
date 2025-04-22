@@ -60,10 +60,7 @@ Reject [996](https://996.icu/#/en_US), WLB only.
 &nbsp;
 
 ## Other Statistic⚡
-<a>
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/yawn_sean?theme=radical&site=cn&ext=contest&font=Content&width=600&height=200" />
-</a>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/yawn_sean?theme=radical&site=cn&font=Content&ext=contest&width=800&height=400)
 &nbsp;
 
 
