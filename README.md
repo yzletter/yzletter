@@ -15,6 +15,7 @@
 
 - 🌱 I’m currently learning Golang
 - 💬 Communicate with me about Golang-related technologies
+- 😄 Here are some of my blogs: [yzletter.notion.site/myblog](https://yzletter.notion.site/myblog) (I'm slowly transferring them from the original station.)
 - 📫 How to reach me: yzletter@foxmail.com
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
