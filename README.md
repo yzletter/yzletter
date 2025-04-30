@@ -1,5 +1,4 @@
 
-
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=Welcome+to+my+Github!;Feel+free+to+contact+me!💬)
 
