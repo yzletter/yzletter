@@ -20,7 +20,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=270" />
+  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=270" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=300" />
 </a>
 
 &nbsp;
