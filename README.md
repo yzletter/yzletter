@@ -15,14 +15,17 @@
 - 💬 Communicate with me about Golang-related technologies
 - 😄 Here are some of my blogs: [yzletter.notion.site/myblog](https://yzletter.notion.site/myblog) (I'm slowly transferring them from the original station.)
 - 📫 How to reach me: yzletter@foxmail.com
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&layout=compact&card_width=270" /> -->
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&card_width=350" />
-</a>
+</a> -->
 
 &nbsp;
 
