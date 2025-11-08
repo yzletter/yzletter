@@ -21,10 +21,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&layout=compact&theme=radical" alt="Top Languages" />
 </p> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&exclude_repo=BASF4DCT&theme=radical&card_width=350" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&layout=compact&exclude_repo=BASF4DCT&theme=radical&card_width=350" />
 </a>
 
 &nbsp;
