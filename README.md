@@ -26,7 +26,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yzletter&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&layout=compact&exclude_repo=BASF4DCT&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzletter&layout=compact&exclude_repo=BASF4DCT&theme=radical"/>
 </p>
 
 &nbsp;
