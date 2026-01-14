@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Golang
 - 💬 Communicate with me about Golang-related technologies
-- 😄 Here are some of my blogs: [publish.obsidian.md/yzletter](https://publish.obsidian.md/yzletter-blog/) (I'm slowly transferring them from the original station.)
+- 😄 Here are some of my blogs: [publish.obsidian.md/yzletter](https://publish.obsidian.md/yzletter) (I'm slowly transferring them from the original station.)
 - 📫 How to reach me: yzletter@foxmail.com
 
 <!-- <p align="center">
