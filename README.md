@@ -11,8 +11,8 @@
 </div>
 <div>&nbsp;</div>
 
-- 🌱 I’m currently learning Golang
-- 💬 Communicate with me about Golang-related technologies
+- 🌱 I’m currently learning Golang And Python
+- 💬 Communicate with me about Backend-related technologies
 - 😄 Here are some of my blogs: [publish.obsidian.md/yzletter](https://publish.obsidian.md/yzletter) (I'm slowly transferring them from the original station.)
 - 📫 How to reach me: yzletter@foxmail.com
 
@@ -47,4 +47,4 @@ Reject [996](https://996.icu/#/en_US), WLB only.
 &nbsp;
 
 ## Other Statistic⚡
-![LeetCode Stats](https://leetcard.jacoblin.cool/sylar-i?theme=radical&site=cn&font=Content&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yzletter?theme=radical&site=cn&font=Content&ext=contest)
