@@ -38,7 +38,7 @@
 </p>
 &nbsp;
 
-
+<!--
 ## Contribution🔭
 Reject [996](https://996.icu/#/en_US), WLB only.
 
@@ -48,3 +48,4 @@ Reject [996](https://996.icu/#/en_US), WLB only.
 
 ## Other Statistic⚡
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yzletter?theme=radical&site=cn&font=Content&ext=contest)
+-->
